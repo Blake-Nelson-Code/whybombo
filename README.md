@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @whybombo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-whybombo/whybombo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @whybombo, better and professionally known as Blake Nelson
+- 👀 I’m interested in anything and everything with optimization. Programming is the easiest way to focus on that for me.
+- 🌱 I’m currently learning Python scripting and C++
+- 💞️ I’m looking to collaborate on any web scraping projects!
+- 📫 How to reach me is pretty simple. Just email me at blake.nelson2001@att.net
+- 😄 Pronouns: He / Him
+  
